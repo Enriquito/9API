@@ -1,7 +1,7 @@
 # 9API
 
 ### Resource URL
-- http://quit0.eu/9api/section/page
+- http://quit0.eu/9api/api/section/page
 
 ## Parameters
 
@@ -11,7 +11,7 @@ Parameter                 | Description
 **id** optional | pageID where to get the data from.
 # Example request
 
-- http://quit0.eu/9api/funny
+- http://quit0.eu/9api/api/funny
 
 ## Result
 ```
