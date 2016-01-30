@@ -20,25 +20,29 @@ Parameter                 | Description
     {
         "posts":[
             {
-            "isVideo":"true",
-            "title":"Best gif I saw in my life",
-            "pageLink":"\/gag\/aW6YXPK?sc=funny",
-            "voting":{"like":"http:\/\/9gag.com\/vote\/like\/id\/aW6YXPK?sc=funny",
+                "isVideo":"true",
+                "title":"Best gif I saw in my life",
+                "pageLink":"\/gag\/aW6YXPK?sc=funny",
+            "voting":
+            {
+                "like":"http:\/\/9gag.com\/vote\/like\/id\/aW6YXPK?sc=funny",
                 "unlike":"http:\/\/9gag.com\/vote\/unlike\/id\/aW6YXPK?sc=funny",
-                "dislike":"http:\/\/9gag.com\/vote\/dislike\/id\/aW6YXPK?sc=funny"},
+                "dislike":"http:\/\/9gag.com\/vote\/dislike\/id\/aW6YXPK?sc=funny"
+            },
             "media":
             {
                 "image":
                     {
                         "src":"http:\/\/img-9gag-fun.9cache.com\/photo\/aW6YXPK_460s.jpg",
-                    "alt":"Best gif I saw in my life"},
-                    "video":
-                    {
-                        "mp4":"http:\/\/img-9gag-fun.9cache.com\/photo\/aW6YXPK_460sv.mp4",
-                    "webm":"http:\/\/img-9gag-fun.9cache.com\/photo\/aW6YXPK_460svwm.webm"}},
-                    "comments":"37",
-                    "loveCount":"1,491"
-                    }
+                        "alt":"Best gif I saw in my life"},
+                "video":
+                {
+                    "mp4":"http:\/\/img-9gag-fun.9cache.com\/photo\/aW6YXPK_460sv.mp4",
+                    "webm":"http:\/\/img-9gag-fun.9cache.com\/photo\/aW6YXPK_460svwm.webm"}
+                },
+                "comments":"37",
+                "loveCount":"1,491"
+            }
 }
 ```
 ## Get section list
